@@ -39,7 +39,7 @@ IF You want to Use this Bot Use in Closed Supergroup Avoid Giving Access to Untr
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/Omkar47/AutoLeecher.git
+git clone https://github.com/debosama/AutoLeecher.git
 cd AutoLeecher
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -53,10 +53,10 @@ python3 -m apdbot
 from apdbot.sample_con import Config
 
 class Config(Config):
-  BOT_TOKEN = ""
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-  AUTH = [-1001234567890, -1001234567891]
+  BOT_TOKEN = 2038898641:AAEy78EPEmZ12Dqz3z_FyIEJIzheCW7mqQc
+  APP_ID = 3495663
+  API_HASH = "bd2c2a8c9fa3169038cdf3c9c8215f19"
+  AUTH = [-1874954413, -1001585071628]
 ```
 
 ### Variable Explanations
